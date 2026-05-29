@@ -1,4 +1,4 @@
-# automatic-disco-go-interpreter
+# automatic-disco
 another tree walking interpreter in go
 
 Interpreter take source code and evaluate it without producing some visible, intermediate result that can later be executed while a compilers, which take source code and produce output in another language that the underlying system can understand.
